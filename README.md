@@ -12,6 +12,6 @@
 ## Some stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=dkushlevich alt=dkushlevich /> </p>
  
-[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkushlevich&show_icons=true&theme=calm)](https://github.com/dkushlevich/github-readme-stats)
+[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkushlevich&show_icons=true&theme=calm&count_private=True)](https://github.com/dkushlevich/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkushlevich&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkushlevich&layout=compact&theme=calm&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
