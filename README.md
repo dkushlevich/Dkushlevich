@@ -5,7 +5,7 @@
 - 🛠 Backend developer
 - 🐍 Learning Python
 - 🇮🇩 Currently in Bali
-- 🛹 🏂 🏄‍♂️ In love with skateboard, snowboard and surfing
+- 🛹 🏂 🏄‍♂️ In love with skateboard, snowboard and surf
 
 
 
