@@ -1,19 +1,17 @@
+<img src="https://github.com/dkushlevich/Dkushlevich/blob/main/images/avatar.png" alt="François Voron" height="500" align="right">
+
+
 <h1 align="center">
-Hello there!<br>
-Welcome to my page
+Ad astra per aspera artinya<br>
 </h1>
 
+Hello, I'm Danila Kushlevich 👋
 
-- 🛠 Backend developer
-- 🐍 Learning Python
-- 🇮🇩 Currently in Bali
-- 🛹 🏂 🏄‍♂️ In love with skateboard, snowboard and surf
+I've just started my journey in IT world and I'm doing my best to make my code robust and clean enough. At the moment I can only boast a solid knowledge of Django and DRF, here and now I'm studying FastAPI and all the libraries it's based on. 
 
+<br clear="right"/>
 
-
-<h1 align="center">Some stats</h1>
-
-<div align="center">
+## Some stats
 
 ![](https://komarev.com/ghpvc/?username=dkushlevich&style=flat-square&color=red)
   
@@ -21,7 +19,6 @@ Welcome to my page
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkushlevich&layout=compact&theme=calm&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
 <h1 align="center">My socials</h1>
 <div align="center">
