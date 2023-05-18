@@ -1,4 +1,4 @@
-<img src="https://github.com/dkushlevich/Dkushlevich/blob/main/images/avatar.png" alt="François Voron" height="500" align="right">
+<img src="https://github.com/dkushlevich/Dkushlevich/blob/main/images/avatar.png" alt="François Voron" height="400" align="right">
 
 
 <h1 align="center">
