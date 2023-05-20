@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-Ad astra per aspera artinya<br>
+Per aspera ad astra<br>
 </h1>
 
 Hello, I'm Danila Kushlevich 👋
