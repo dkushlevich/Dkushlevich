@@ -17,9 +17,6 @@ I've just started my journey in IT world and I'm doing my best to make my code r
 
 Leetcode: ![](https://badges.peiyuan.ch/leetcode/dkushlevich/solved?difficulty=easy) ![](https://badges.peiyuan.ch/leetcode/dkushlevich/solved?difficulty=medium)
 
-[![Danila's GitHub stats](https://github-readme-stats-cjv812m83-dkushlevich.vercel.app/api?username=dkushlevich&show_icons=true&theme=calm&count_private=True)](https://github.com/dkushlevich/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats-cjv812m83-dkushlevich.vercel.app/api/top-langs/?username=dkushlevich&layout=compact&theme=calm&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h1 align="center">My socials</h1>
