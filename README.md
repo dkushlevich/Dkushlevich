@@ -17,7 +17,7 @@ I've just started my journey in IT world and I'm doing my best to make my code r
 
 Leetcode: ![](https://badges.peiyuan.ch/leetcode/dkushlevich/solved?difficulty=easy) ![](https://badges.peiyuan.ch/leetcode/dkushlevich/solved?difficulty=medium)
 
-
+![dkushlevich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkushlevich&theme=calm&hide_border=false)
 
 <h1 align="center">My socials</h1>
 <div align="center">
