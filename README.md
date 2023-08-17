@@ -1,4 +1,12 @@
+<style>
+img{
+    border-radius: 50px;
+}
+</style>
+
 <img src="https://github.com/dkushlevich/Dkushlevich/blob/main/images/avatar.jpg" alt="Danila Kushleich" height="400" align="right">
+
+
 
 
 <h1 align="center">
