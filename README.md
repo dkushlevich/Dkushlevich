@@ -1,5 +1,5 @@
 
-<img src="https://github.com/dkushlevich/Dkushlevich/blob/main/images/avatar.jpg" alt="Danila Kushleich" height="400" align="right">
+<img src="https://github.com/dkushlevich/Dkushlevich/blob/main/images/avatar.jpg" alt="Danila Kushleich" height="320" align="right">
 
 
 
