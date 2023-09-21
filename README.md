@@ -21,13 +21,14 @@ I've just started my journey in IT world and I'm doing my best to make my code r
   
 ![](https://komarev.com/ghpvc/?username=dkushlevich&style=flat-square&color=red)
   
-![dkushlevich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkushlevich&theme=calm&hide_border=false)
 
 [![dkushlevich's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dkushlevich&theme=dark)](https://leetcode.com/dkushlevich/)
 
   
 </div>
+
 <h1 align="center">My socials</h1>
+
 <div align="center">
   
 [![Gmail Badge](https://img.shields.io/badge/-dkushlevich@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dkushlevich@gmail.com)](mailto:dkushlevich@gmail.com)
